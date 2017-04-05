@@ -1,0 +1,3 @@
+c:\users\manuel.rixen\documents\visual studio 2013\Projects\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\Manuel.Rixen\Documents\GitHub\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\Manuel.Rixen\Documents\GitHub\DataBase_RobotControl\DataBase\bin\Debug\DataBase.exe.config
